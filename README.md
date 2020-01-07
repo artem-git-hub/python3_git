@@ -8,3 +8,5 @@ make project
 
 
 Ураааа....Мы добавили ssh-key
+
+print('Hello my friend i`m very bad!')
